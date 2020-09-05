@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dda4c807-ba28-4dee-8796-685affde2ec2" name="Default Changelist" comment="" />
+    <list default="true" id="dda4c807-ba28-4dee-8796-685affde2ec2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/linjing/syn/UnsafeBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linjing/syn/UnsafeBuyTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/linjing/syn/UnsafeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/Marry.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/Marry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/Race.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/Race.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/StaticProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/StaticProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/TestCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/TestCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/TestRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/TestRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/TestThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/TestThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/Ticket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/Ticket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/WeddingCompany.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/WeddingCompany.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/You.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/Thread/You.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/state/TestSleep1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThreadLearning/com/linjing/state/TestSleep1.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +29,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1h4oYXlpj1uf6TtYuQ6YerBVYS3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +45,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/linjing/syn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
@@ -32,14 +54,17 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.linjing" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/linjing/syn" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TestDaemon">
-    <configuration name="TestDaemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linjing.state.TestDaemon" />
+  <component name="RunManager" selected="Application.UnsafeList">
+    <configuration name="TestLambda1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linjing.lamda.TestLambda1" />
       <module name="ThreadLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linjing.state.*" />
+          <option name="PATTERN" value="com.linjing.lamda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linjing.state.TestJoin" />
+    <configuration name="UnsafeBank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linjing.syn.UnsafeBank" />
       <module name="ThreadLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linjing.state.*" />
+          <option name="PATTERN" value="com.linjing.syn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPriority" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linjing.state.TestPriority" />
+    <configuration name="UnsafeBuyTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linjing.syn.UnsafeBuyTicket" />
       <module name="ThreadLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linjing.state.*" />
+          <option name="PATTERN" value="com.linjing.syn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linjing.state.TestState" />
+    <configuration name="UnsafeByTicket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linjing.syn.UnsafeByTicket" />
       <module name="ThreadLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linjing.state.*" />
+          <option name="PATTERN" value="com.linjing.syn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestYield" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linjing.state.TestYield" />
+    <configuration name="UnsafeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linjing.syn.UnsafeList" />
       <module name="ThreadLearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.linjing.state.*" />
+          <option name="PATTERN" value="com.linjing.syn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestDaemon" />
-        <item itemvalue="Application.TestPriority" />
-        <item itemvalue="Application.TestState" />
-        <item itemvalue="Application.TestJoin" />
-        <item itemvalue="Application.TestYield" />
+        <item itemvalue="Application.UnsafeList" />
+        <item itemvalue="Application.UnsafeBank" />
+        <item itemvalue="Application.UnsafeBuyTicket" />
+        <item itemvalue="Application.UnsafeByTicket" />
+        <item itemvalue="Application.TestLambda1" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599279773929</updated>
       <workItem from="1599279775703" duration="13991000" />
+      <workItem from="1599322864568" duration="3441000" />
     </task>
     <servers />
   </component>
@@ -127,33 +153,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1599320349603">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1599323962617">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1599320349603" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1599323962616" />
+    <state x="445" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599324071574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="445" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1599324071574" />
     <state x="529" y="373" key="Github.CreateGistDialog" timestamp="1599322161757">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="529" y="373" key="Github.CreateGistDialog/0.0.1440.900@0.0.1440.900" timestamp="1599322161757" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1599320599291">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1599326474780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599320599291" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1599326474780" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1599285608839" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1599320599290">
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1599326474779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599320599290" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1599326474779" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1599285608834" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1599320599289">
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1599326474778">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599320599289" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1599326474778" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1599285608833" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1599320599290">
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1599326474779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599320599290" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1599326474779" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1599285608834" />
     <state x="229" y="89" key="SettingsEditor" timestamp="1599302519337">
       <screen x="0" y="0" width="1440" height="900" />
